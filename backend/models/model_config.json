@@ -1,0 +1,45 @@
+{
+  "features": [
+    "vessel_type_enc",
+    "fuel_type_enc",
+    "operational_mode_enc",
+    "capacity_dwt",
+    "speed_knots",
+    "cargo_load_pct",
+    "distance_nm",
+    "wave_height_m",
+    "speed_cubed",
+    "load_ratio",
+    "speed_load_interaction",
+    "log_distance",
+    "log_capacity"
+  ],
+  "target": "fuel_consumption_mt",
+  "encoding_maps": {
+    "vessel_type": {
+      "bulk_carrier": 0,
+      "container_ship": 1,
+      "ferry": 2,
+      "general_cargo": 3,
+      "passenger": 4,
+      "ro_ro": 5,
+      "tanker": 6
+    },
+    "fuel_type": {
+      "HFO": 0,
+      "Hydrogen": 1,
+      "LNG": 2,
+      "MGO": 3,
+      "Methanol": 4,
+      "Shore_Power": 5
+    },
+    "operational_mode": {
+      "coastal": 0,
+      "river_mouth": 1,
+      "sea_passage": 2
+    }
+  },
+  "seed": 42,
+  "train_size": 4000,
+  "test_size": 1000
+}

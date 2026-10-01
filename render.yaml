@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: jalmarg-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt && python -c "import sys; sys.path.insert(0,'..'); from models.prediction import train_all_models; import os; os.makedirs('models', exist_ok=True); train_all_models() if not os.path.exists('models/quantum_inspired.pkl') else None"
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.0"
+    healthCheckPath: /health

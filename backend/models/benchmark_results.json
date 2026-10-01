@@ -1,0 +1,26 @@
+{
+  "Linear Regression": {
+    "mae": 36.655,
+    "rmse": 58.049,
+    "mape": 260.49,
+    "r2": 0.6539
+  },
+  "Random Forest": {
+    "mae": 11.909,
+    "rmse": 23.331,
+    "mape": 14.91,
+    "r2": 0.9441
+  },
+  "XGBoost": {
+    "mae": 10.088,
+    "rmse": 20.751,
+    "mape": 25.83,
+    "r2": 0.9558
+  },
+  "Quantum-Inspired": {
+    "mae": 8.488,
+    "rmse": 17.771,
+    "mape": 25.5,
+    "r2": 0.9676
+  }
+}

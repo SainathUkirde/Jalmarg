@@ -1,0 +1,132 @@
+[
+  {
+    "id": "JNPA",
+    "name": "JNPA",
+    "lat": 18.949,
+    "lon": 72.949,
+    "state": "Maharashtra",
+    "coast": "west",
+    "traffic_mt_2022_23": 79.6,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Mumbai",
+    "name": "Mumbai",
+    "lat": 18.922,
+    "lon": 72.8347,
+    "state": "Maharashtra",
+    "coast": "west",
+    "traffic_mt_2022_23": 67.0,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Chennai",
+    "name": "Chennai",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "state": "Tamil Nadu",
+    "coast": "east",
+    "traffic_mt_2022_23": 49.9,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Visakhapatnam",
+    "name": "Visakhapatnam",
+    "lat": 17.6883,
+    "lon": 83.2185,
+    "state": "Andhra Pradesh",
+    "coast": "east",
+    "traffic_mt_2022_23": 86.5,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Paradip",
+    "name": "Paradip",
+    "lat": 20.3148,
+    "lon": 86.6111,
+    "state": "Odisha",
+    "coast": "east",
+    "traffic_mt_2022_23": 121.6,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Kandla",
+    "name": "Kandla",
+    "lat": 23.0116,
+    "lon": 70.2209,
+    "state": "Gujarat",
+    "coast": "west",
+    "traffic_mt_2022_23": 147.3,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Kochi",
+    "name": "Kochi",
+    "lat": 9.9312,
+    "lon": 76.2673,
+    "state": "Kerala",
+    "coast": "west",
+    "traffic_mt_2022_23": 29.6,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Tuticorin",
+    "name": "Tuticorin",
+    "lat": 8.7642,
+    "lon": 78.1348,
+    "state": "Tamil Nadu",
+    "coast": "east",
+    "traffic_mt_2022_23": 30.0,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Kamarajar",
+    "name": "Kamarajar",
+    "lat": 13.2168,
+    "lon": 80.3288,
+    "state": "Tamil Nadu",
+    "coast": "east",
+    "traffic_mt_2022_23": 41.8,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "New_Mangalore",
+    "name": "New Mangalore",
+    "lat": 12.9141,
+    "lon": 74.856,
+    "state": "Karnataka",
+    "coast": "west",
+    "traffic_mt_2022_23": 0,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Mormugao",
+    "name": "Mormugao",
+    "lat": 15.42,
+    "lon": 73.79,
+    "state": "Goa",
+    "coast": "west",
+    "traffic_mt_2022_23": 14.9,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Kolkata_SMPK",
+    "name": "Kolkata SMPK",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "state": "West Bengal",
+    "coast": "east",
+    "traffic_mt_2022_23": 20.4,
+    "data_source": "REAL_IPA_2022_23"
+  },
+  {
+    "id": "Port_Blair",
+    "name": "Port Blair",
+    "lat": 11.6234,
+    "lon": 92.7265,
+    "state": "Andaman & Nicobar",
+    "coast": "island",
+    "traffic_mt_2022_23": 1.1,
+    "data_source": "REAL_IPA_2022_23"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "vessel_type": {
+    "bulk_carrier": 0,
+    "container_ship": 1,
+    "ferry": 2,
+    "general_cargo": 3,
+    "passenger": 4,
+    "ro_ro": 5,
+    "tanker": 6
+  },
+  "fuel_type": {
+    "HFO": 0,
+    "Hydrogen": 1,
+    "LNG": 2,
+    "MGO": 3,
+    "Methanol": 4,
+    "Shore_Power": 5
+  },
+  "operational_mode": {
+    "coastal": 0,
+    "river_mouth": 1,
+    "sea_passage": 2
+  }
+}
